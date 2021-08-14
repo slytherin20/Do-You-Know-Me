@@ -36,6 +36,10 @@ function play(){
     {
       ques:"What is her favourite color?",
       ans:"black"
+    },
+	 {
+      ques:"What is her favourite show?",
+      ans:"Scarlet Heart Ryeo"
     }
   ]
 
